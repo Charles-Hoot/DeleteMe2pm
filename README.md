@@ -23,7 +23,7 @@ def addUp(aList):
 
 List of steps
 * change the code
-    2. add a variable
+    1. add a variable
     2. add a function
     2. change a function
 * Save the change
@@ -32,6 +32,6 @@ List of steps
 * check remotely
 
 Animals we like
-3. Lion
-2. Dog
+1. Lion
+1. Dog
 1. Jaguar
