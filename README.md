@@ -35,3 +35,8 @@ Animals we like
 1. Lion
 1. Dog
 1. Jaguar
+
+-------
+
+Do a search on [google](https://google.com)
+Take me to your [leader](Second.md)
