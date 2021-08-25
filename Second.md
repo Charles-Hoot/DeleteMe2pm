@@ -1,3 +1,3 @@
 # Second page
 
-Your leader is
+Your leader is ![A lion](lion.jpg)
